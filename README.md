@@ -54,4 +54,6 @@ Details on the Lockphish tool and its applications.
 
 ## Conclusion
 
-Summarizing the content and key takeaways from this repository.
+I am summarizing the content and key takeaways from this repository.
+
+credits : ignite Technologies
